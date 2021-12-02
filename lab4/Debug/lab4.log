@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\Users\alase\OneDrive\Pulpit\studia\lab4\lab4.cpp(69,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\alase\OneDrive\Pulpit\studia\lab4\lab4.cpp(90,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  lab4.vcxproj -> C:\Users\alase\OneDrive\Pulpit\studia\lab4\Debug\lab4.exe
